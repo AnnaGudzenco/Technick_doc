@@ -1,0 +1,4332 @@
+{
+	"id": 6040113,
+	"ageGroups": ["ADULT"],
+	"reviewAverageRating": 4.5,
+	"enticementPlacements": [{
+		"name": "product-page-2 v1.0.0",
+		"enticements": [{
+			"type": "TDBank60BonusPromo",
+			"title": "<p>Get a $60 Bonus Note when you use a new Nordstrom credit card. <a title=\"\" href=\"https://www.nordstromrack.com/creditcard/entry?cc=RA1002\">Apply now</a></p>"
+		}, {
+			"type": "TDBank40BonusPromo",
+			"title": "<p>Get a $40 Bonus Note when you use a new Nordstrom credit card. <a title=\"\" href=\"https://www.nordstromrack.com/creditcard/entry?cc=RA1002\">Apply now</a></p>"
+		}]
+	}],
+	"brand": {
+		"brandName": "Z BY ZELLA",
+		"brandUrl": "/brands/z-by-zella?origin=productBrandLink",
+		"hasBrandPage": false,
+		"imsBrandId": 38882
+	},
+	"consumers": ["product-page"],
+	"description": "<p>Lounge or workout in these stretchy side pocket leggings featuring an elastic waistband and cropped leg.</p>",
+	"customizationCode": "",
+	"defaultGalleryMedia": {
+		"styleMediaId": "6041113",
+		"colorId": "001",
+		"isTrimmed": false,
+		"styleMediaIds": [6041113, 6041133, 6041123]
+	},
+	"eventFlags": {
+		"anniversaryPhase": "NONE"
+	},
+	"features": ["9.5\" rise, 21.5\" inseam (size S)", "Elastic waist", "Pull-on style", "Side slip pockets", "Cropped leg", "88% polyester, 12% spandex", "Machine wash cold", "Imported", "Model stats: 5'10\" height, 32\" bust, 25\" waist, 36\" hip. Model is wearing size S.", "Item #6516757"],
+	"filters": {
+		"color": {
+			"byId": {
+				"331": {
+					"id": "331",
+					"code": "331",
+					"isSelected": false,
+					"isDefault": false,
+					"value": "Green Celery",
+					"displayValue": "Green Celery",
+					"filterType": "color",
+					"isAvailableWith": "_s:x-small|_s:small|_s:medium|_s:large|_s:x-large|_s:xx-large|",
+					"relatedSkuIds": [37381505, 37381506, 37381507, 37381494, 37381497, 37381498],
+					"soldOutRelatedSkuIds": null,
+					"styleMediaIds": [6050113, 6050123, 6050133],
+					"swatchMedia": {
+						"desktop": "https://n.nordstrommedia.com/id/sr3/7de71ba2-6fdc-4b37-8acf-a245d6060f79.jpeg?crop=fit&w=31&h=31",
+						"mobile": "https://n.nordstrommedia.com/id/sr3/7de71ba2-6fdc-4b37-8acf-a245d6060f79.jpeg?crop=fit&w=40&h=40",
+						"preview": "https://n.nordstrommedia.com/id/sr3/7de71ba2-6fdc-4b37-8acf-a245d6060f79.jpeg?crop=fit&w=168&h=168"
+					}
+				},
+				"001": {
+					"id": "001",
+					"code": "001",
+					"isSelected": false,
+					"isDefault": true,
+					"value": "Black",
+					"displayValue": "Black",
+					"filterType": "color",
+					"isAvailableWith": "_s:x-small|_s:small|_s:medium|_s:large|_s:x-large|",
+					"relatedSkuIds": [24164842, 24164871, 24164874, 24164875, 24164876],
+					"soldOutRelatedSkuIds": null,
+					"styleMediaIds": [6041113, 6041123, 6041133],
+					"swatchMedia": {
+						"desktop": "https://n.nordstrommedia.com/id/sr3/ee268247-bc89-49d6-8812-167ceed01571.jpeg?crop=fit&w=31&h=31",
+						"mobile": "https://n.nordstrommedia.com/id/sr3/ee268247-bc89-49d6-8812-167ceed01571.jpeg?crop=fit&w=40&h=40",
+						"preview": "https://n.nordstrommedia.com/id/sr3/ee268247-bc89-49d6-8812-167ceed01571.jpeg?crop=fit&w=168&h=168"
+					}
+				},
+				"021": {
+					"id": "021",
+					"code": "021",
+					"isSelected": false,
+					"isDefault": false,
+					"value": "Grey Kitten",
+					"displayValue": "Grey Kitten",
+					"filterType": "color",
+					"isAvailableWith": "_s:x-small|_s:small|_s:medium|_s:large|_s:x-large|_s:xx-large|",
+					"relatedSkuIds": [26113964, 26113965, 26113966, 26113967, 26113968, 37410334],
+					"soldOutRelatedSkuIds": null,
+					"styleMediaIds": [6043113, 6043123],
+					"swatchMedia": {
+						"desktop": "https://n.nordstrommedia.com/id/sr3/539be5d3-7d3f-41e1-afbf-cc1b1eb4fdb7.jpeg?crop=fit&w=31&h=31",
+						"mobile": "https://n.nordstrommedia.com/id/sr3/539be5d3-7d3f-41e1-afbf-cc1b1eb4fdb7.jpeg?crop=fit&w=40&h=40",
+						"preview": "https://n.nordstrommedia.com/id/sr3/539be5d3-7d3f-41e1-afbf-cc1b1eb4fdb7.jpeg?crop=fit&w=168&h=168"
+					}
+				}
+			},
+			"allIds": ["001", "021", "331"]
+		},
+		"size": {
+			"byId": {
+				"large": {
+					"id": "large",
+					"value": "large",
+					"displayValue": "Large",
+					"groupValue": "Regular",
+					"filterType": "size",
+					"relatedSkuIds": [24164875, 26113967, 37381494],
+					"isAvailableWith": "_c:001|_c:021|_c:331|",
+					"soldOutRelatedSkuIds": null
+				},
+				"medium": {
+					"id": "medium",
+					"value": "medium",
+					"displayValue": "Medium",
+					"groupValue": "Regular",
+					"filterType": "size",
+					"relatedSkuIds": [24164874, 26113966, 37381507],
+					"isAvailableWith": "_c:001|_c:021|_c:331|",
+					"soldOutRelatedSkuIds": null
+				},
+				"small": {
+					"id": "small",
+					"value": "small",
+					"displayValue": "Small",
+					"groupValue": "Regular",
+					"filterType": "size",
+					"relatedSkuIds": [24164871, 26113965, 37381506],
+					"isAvailableWith": "_c:001|_c:021|_c:331|",
+					"soldOutRelatedSkuIds": null
+				},
+				"x-large": {
+					"id": "x-large",
+					"value": "x-large",
+					"displayValue": "X-Large",
+					"groupValue": "Regular",
+					"filterType": "size",
+					"relatedSkuIds": [24164876, 26113968, 37381497],
+					"isAvailableWith": "_c:001|_c:021|_c:331|",
+					"soldOutRelatedSkuIds": null
+				},
+				"x-small": {
+					"id": "x-small",
+					"value": "x-small",
+					"displayValue": "X-Small",
+					"groupValue": "Regular",
+					"filterType": "size",
+					"relatedSkuIds": [24164842, 26113964, 37381505],
+					"isAvailableWith": "_c:001|_c:021|_c:331|",
+					"soldOutRelatedSkuIds": null
+				},
+				"xx-large": {
+					"id": "xx-large",
+					"value": "xx-large",
+					"displayValue": "XX-Large",
+					"groupValue": "Regular",
+					"filterType": "size",
+					"relatedSkuIds": [37381498, 37410334],
+					"isAvailableWith": "_c:331|_c:021|",
+					"soldOutRelatedSkuIds": null
+				}
+			},
+			"allIds": ["x-small", "small", "medium", "large", "x-large", "xx-large"]
+		},
+		"width": {
+			"byId": {},
+			"allIds": []
+		},
+		"group": {
+			"byId": {
+				"regular": {
+					"value": "regular",
+					"displayValue": "Regular",
+					"filterType": "group",
+					"originalStyleNumber": "6516757",
+					"shouldDisplay": false,
+					"relatedSizeIds": ["x-small", "small", "medium", "large", "x-large", "xx-large"]
+				}
+			},
+			"allIds": ["regular"]
+		}
+	},
+	"filterOptions": ["color", "size"],
+	"fitAndSize": {
+		"contextualSizeDetail": "XXS=00, XS=0-2, S=4-6, M=8-10, L=12-14, XL=16-18 (14W), XXL=20 (16W).",
+		"fitGuideTitle": "",
+		"fitGuideUrl": "",
+		"fitVideoTitle": "",
+		"fitVideoUrl": "",
+		"sizeChartTitle": null,
+		"sizeChartUrl": "",
+		"sizeDetail": ["XXS=00, XS=0-2, S=4-6, M=8-10, L=12-14, XL=16-18 (14W), XXL=20 (16W)."],
+		"modelSizeData": []
+	},
+	"imtFitAndSize": {
+		"sizeChartId": "722b860d-bff9-42d3-81a7-68c1749976d7"
+	},
+	"fitCategory": "",
+	"gender": "Female",
+	"healthHazardCategory": "",
+	"holidayDeliveryCopy": {},
+	"productTypeCode": "MG11",
+	"ingredients": "",
+	"isAnniversaryStyle": false,
+	"isAvailable": true,
+	"isBackOrdered": false,
+	"isBeauty": false,
+	"isCallCenterActive": false,
+	"isChanel": false,
+	"isCustomerFirstAccessEligible": false,
+	"isProductNordyClubExclusive": false,
+	"isPickUpStoreEligible": false,
+	"isInStoreOnlyBridal": false,
+	"isInternational": false,
+	"isLoadedFromServer": true,
+	"isMwpV6": true,
+	"isDynamicRenderOn": true,
+	"isPlatformECustomizable": false,
+	"isPreOrder": false,
+	"isProductBuyNowEligible": false,
+	"isStyleRestrictedFromIntlShipping": false,
+	"isUmap": false,
+	"maxOrderQuantity": 99,
+	"number": "6516757",
+	"numberOfReviews": 371,
+	"pathAlias": "z-by-zella-high-waist-daily-pocket-crop-leggings",
+	"price": {
+		"bySkuId": {
+			"24164842": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"24164871": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"24164874": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"24164875": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"24164876": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"26113964": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"26113965": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"26113966": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"26113967": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"26113968": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"37381494": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"37381497": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"37381498": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"37381505": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"37381506": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"37381507": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			},
+			"37410334": {
+				"currentPercentOff": "",
+				"isInternationalPricing": false,
+				"isOriginalPriceRange": false,
+				"isPercentOffCompareAt": false,
+				"isRange": false,
+				"maxPercentageOff": "",
+				"originalPriceString": "26.97",
+				"previousePercentOff": "",
+				"previousPriceString": "",
+				"priceString": "26.97",
+				"nordyClubPoints": {
+					"nonCardBasePoints": "",
+					"cardBasePoints": "",
+					"highLevelPoints": ""
+				},
+				"saleType": "REGULAR",
+				"showSoldOutMessage": false,
+				"showUMapMessage": false,
+				"showUMapPrice": false,
+				"styleId": 6040113,
+				"valueStatement": ""
+			}
+		},
+		"allSkuIds": [24164842, 26113964, 37381505, 24164871, 26113965, 37381506, 24164874, 26113966, 37381507, 24164875, 26113967, 37381494, 24164876, 26113968, 37381497, 37381498, 37410334],
+		"style": {
+			"allSkusOnSale": false,
+			"currentMinPrice": 26.97,
+			"currentMaxPrice": 26.97,
+			"currentPercentOff": "",
+			"isClearTheRack": false,
+			"isInternationalPricing": false,
+			"isOriginalPriceRange": false,
+			"isPercentOffCompareAt": false,
+			"isRange": false,
+			"maxPercentageOff": "",
+			"originalPriceString": "26.97",
+			"previousePercentOff": "",
+			"previousPriceString": "",
+			"priceString": "26.97",
+			"saleEndDate": "",
+			"nordyClubPoints": {
+				"nonCardBasePoints": "",
+				"cardBasePoints": "",
+				"highLevelPoints": ""
+			},
+			"saleType": "Regular",
+			"showSoldOutMessage": false,
+			"showUMapMessage": false,
+			"showUMapPrice": false,
+			"styleId": 6040113,
+			"valueStatement": ""
+		},
+		"offerPrice": {
+			"bySkuId": {
+				"24164842": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"24164871": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"24164874": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"24164875": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"24164876": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"26113964": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"26113965": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"26113966": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"26113967": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"26113968": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"37381494": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"37381497": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"37381498": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"37381505": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"37381506": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"37381507": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				},
+				"37410334": {
+					"currentPriceType": "REGULAR",
+					"compareAt": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"regular": {
+						"price": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"percentOffCompareAt": 0,
+						"percentOffRegular": 0,
+						"percentOffClearance": 0
+					},
+					"clearance": null,
+					"promotion": null
+				}
+			},
+			"style": {
+				"totalPriceRange": {
+					"min": {
+						"currencyCode": "USD",
+						"units": 26,
+						"nanos": 970000000
+					},
+					"max": {
+						"currencyCode": "USD",
+						"units": 26,
+						"nanos": 970000000
+					}
+				},
+				"totalPercentOffRange": {
+					"min": 0,
+					"max": 0
+				},
+				"compareAt": {
+					"priceRange": {
+						"min": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"max": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						}
+					},
+					"percentOffCompareAtRange": {
+						"min": 0,
+						"max": 0
+					},
+					"percentOffRegularRange": {
+						"min": 0,
+						"max": 0
+					},
+					"percentOffClearanceRange": {
+						"min": 0,
+						"max": 0
+					}
+				},
+				"regular": {
+					"priceRange": {
+						"min": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						},
+						"max": {
+							"currencyCode": "USD",
+							"units": 26,
+							"nanos": 970000000
+						}
+					},
+					"percentOffCompareAtRange": {
+						"min": 0,
+						"max": 0
+					},
+					"percentOffRegularRange": {
+						"min": 0,
+						"max": 0
+					},
+					"percentOffClearanceRange": {
+						"min": 0,
+						"max": 0
+					}
+				},
+				"clearance": null,
+				"promotion": null
+			}
+		}
+	},
+	"productEngagement": {
+		"pageViews": {
+			"count": "7",
+			"copy": ""
+		}
+	},
+	"productName": "High Waist Daily Pocket Crop Leggings",
+	"productTitle": "Z BY ZELLA High Waist Daily Pocket Crop Leggings",
+	"productTypeName": "Stirrup/Legging",
+	"productTypeParentName": "Bottoms",
+	"salesVideoShot": null,
+	"sellingStatement": "Lounge or workout in these stretchy side pocket leggings featuring an elastic waistband and cropped leg.",
+	"skus": {
+		"byId": {
+			"24164842": {
+				"id": 24164842,
+				"backOrderDate": null,
+				"colorId": "001",
+				"colorDisplayValue": "Black",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "x-small",
+				"sizeDisplayValue": "X-Small",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 24164842,
+				"totalQuantityAvailable": 663,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"24164871": {
+				"id": 24164871,
+				"backOrderDate": null,
+				"colorId": "001",
+				"colorDisplayValue": "Black",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "small",
+				"sizeDisplayValue": "Small",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 24164871,
+				"totalQuantityAvailable": 1573,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"24164874": {
+				"id": 24164874,
+				"backOrderDate": null,
+				"colorId": "001",
+				"colorDisplayValue": "Black",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "medium",
+				"sizeDisplayValue": "Medium",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 24164874,
+				"totalQuantityAvailable": 868,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"24164875": {
+				"id": 24164875,
+				"backOrderDate": null,
+				"colorId": "001",
+				"colorDisplayValue": "Black",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "large",
+				"sizeDisplayValue": "Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 24164875,
+				"totalQuantityAvailable": 38,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"24164876": {
+				"id": 24164876,
+				"backOrderDate": null,
+				"colorId": "001",
+				"colorDisplayValue": "Black",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "x-large",
+				"sizeDisplayValue": "X-Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 24164876,
+				"totalQuantityAvailable": 43,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"26113964": {
+				"id": 26113964,
+				"backOrderDate": null,
+				"colorId": "021",
+				"colorDisplayValue": "Grey Kitten",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "x-small",
+				"sizeDisplayValue": "X-Small",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 26113964,
+				"totalQuantityAvailable": 19,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"26113965": {
+				"id": 26113965,
+				"backOrderDate": null,
+				"colorId": "021",
+				"colorDisplayValue": "Grey Kitten",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "small",
+				"sizeDisplayValue": "Small",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 26113965,
+				"totalQuantityAvailable": 65,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"26113966": {
+				"id": 26113966,
+				"backOrderDate": null,
+				"colorId": "021",
+				"colorDisplayValue": "Grey Kitten",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "medium",
+				"sizeDisplayValue": "Medium",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 26113966,
+				"totalQuantityAvailable": 113,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"26113967": {
+				"id": 26113967,
+				"backOrderDate": null,
+				"colorId": "021",
+				"colorDisplayValue": "Grey Kitten",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "large",
+				"sizeDisplayValue": "Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 26113967,
+				"totalQuantityAvailable": 72,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"26113968": {
+				"id": 26113968,
+				"backOrderDate": null,
+				"colorId": "021",
+				"colorDisplayValue": "Grey Kitten",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "x-large",
+				"sizeDisplayValue": "X-Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 26113968,
+				"totalQuantityAvailable": 14,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"37381494": {
+				"id": 37381494,
+				"backOrderDate": null,
+				"colorId": "331",
+				"colorDisplayValue": "Green Celery",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "large",
+				"sizeDisplayValue": "Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 37381494,
+				"totalQuantityAvailable": 118,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"37381497": {
+				"id": 37381497,
+				"backOrderDate": null,
+				"colorId": "331",
+				"colorDisplayValue": "Green Celery",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "x-large",
+				"sizeDisplayValue": "X-Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 37381497,
+				"totalQuantityAvailable": 53,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"37381498": {
+				"id": 37381498,
+				"backOrderDate": null,
+				"colorId": "331",
+				"colorDisplayValue": "Green Celery",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "xx-large",
+				"sizeDisplayValue": "XX-Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 37381498,
+				"totalQuantityAvailable": 11,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"37381505": {
+				"id": 37381505,
+				"backOrderDate": null,
+				"colorId": "331",
+				"colorDisplayValue": "Green Celery",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "x-small",
+				"sizeDisplayValue": "X-Small",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 37381505,
+				"totalQuantityAvailable": 34,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"37381506": {
+				"id": 37381506,
+				"backOrderDate": null,
+				"colorId": "331",
+				"colorDisplayValue": "Green Celery",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "small",
+				"sizeDisplayValue": "Small",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 37381506,
+				"totalQuantityAvailable": 117,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"37381507": {
+				"id": 37381507,
+				"backOrderDate": null,
+				"colorId": "331",
+				"colorDisplayValue": "Green Celery",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "medium",
+				"sizeDisplayValue": "Medium",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 37381507,
+				"totalQuantityAvailable": 174,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			},
+			"37410334": {
+				"id": 37410334,
+				"backOrderDate": null,
+				"colorId": "021",
+				"colorDisplayValue": "Grey Kitten",
+				"displayPercentOff": "",
+				"displayPrice": "26.97",
+				"isAvailable": true,
+				"isBackOrder": false,
+				"isPreOrder": false,
+				"price": 26.97,
+				"sizeId": "xx-large",
+				"sizeDisplayValue": "XX-Large",
+				"widthId": "",
+				"widthDisplayValue": "",
+				"rmsSkuId": 37410334,
+				"totalQuantityAvailable": 1,
+				"isFinalSale": false,
+				"isClearTheRack": false,
+				"giftServicesAvailable": [{
+					"type": "GIFT_BOX",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_KIT",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "FULFILLMENT_CENTER"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "NORDSTROM_STORE"
+				}, {
+					"type": "EMAIL_GIFT_MESSAGE",
+					"isAvailable": true,
+					"fulfillmentChannel": "DROPSHIP"
+				}]
+			}
+		},
+		"allIds": [24164842, 26113964, 37381505, 24164871, 26113965, 37381506, 24164874, 26113966, 37381507, 24164875, 26113967, 37381494, 24164876, 26113968, 37381497, 37381498, 37410334]
+	},
+	"soldOutSkus": {
+		"byId": {},
+		"allIds": []
+	},
+	"styleMedia": {
+		"byId": {
+			"6041113": {
+				"id": 6041113,
+				"colorId": "001",
+				"colorName": "BLACK",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/bc7067af-cf19-44a5-a696-430e5d54f649.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/bc7067af-cf19-44a5-a696-430e5d54f649.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/bc7067af-cf19-44a5-a696-430e5d54f649.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/bc7067af-cf19-44a5-a696-430e5d54f649.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/bc7067af-cf19-44a5-a696-430e5d54f649.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/bc7067af-cf19-44a5-a696-430e5d54f649.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": true,
+				"isSelected": true,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6041123": {
+				"id": 6041123,
+				"colorId": "001",
+				"colorName": "BLACK",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/75200844-3edc-4d65-a2a8-f366d99f9f18.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/75200844-3edc-4d65-a2a8-f366d99f9f18.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/75200844-3edc-4d65-a2a8-f366d99f9f18.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/75200844-3edc-4d65-a2a8-f366d99f9f18.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/75200844-3edc-4d65-a2a8-f366d99f9f18.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/75200844-3edc-4d65-a2a8-f366d99f9f18.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": true,
+				"isSelected": true,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6041133": {
+				"id": 6041133,
+				"colorId": "001",
+				"colorName": "BLACK",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/b6144c42-ee28-458e-b5e0-9726417622e7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/b6144c42-ee28-458e-b5e0-9726417622e7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/b6144c42-ee28-458e-b5e0-9726417622e7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/b6144c42-ee28-458e-b5e0-9726417622e7.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/b6144c42-ee28-458e-b5e0-9726417622e7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/b6144c42-ee28-458e-b5e0-9726417622e7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": true,
+				"isSelected": true,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6042113": {
+				"id": 6042113,
+				"colorId": "1",
+				"colorName": "020",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6042123": {
+				"id": 6042123,
+				"colorId": "1",
+				"colorName": "020",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6043113": {
+				"id": 6043113,
+				"colorId": "021",
+				"colorName": "GREY KITTEN",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/fe0a8b20-f2ad-4e9f-b6e5-3ea32670fef9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/fe0a8b20-f2ad-4e9f-b6e5-3ea32670fef9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/fe0a8b20-f2ad-4e9f-b6e5-3ea32670fef9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/fe0a8b20-f2ad-4e9f-b6e5-3ea32670fef9.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/fe0a8b20-f2ad-4e9f-b6e5-3ea32670fef9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/fe0a8b20-f2ad-4e9f-b6e5-3ea32670fef9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6043123": {
+				"id": 6043123,
+				"colorId": "021",
+				"colorName": "GREY KITTEN",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/4cf30529-c92c-43ee-bc1f-2602b75d6cd0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/4cf30529-c92c-43ee-bc1f-2602b75d6cd0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/4cf30529-c92c-43ee-bc1f-2602b75d6cd0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/4cf30529-c92c-43ee-bc1f-2602b75d6cd0.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/4cf30529-c92c-43ee-bc1f-2602b75d6cd0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/4cf30529-c92c-43ee-bc1f-2602b75d6cd0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6044113": {
+				"id": 6044113,
+				"colorId": "201",
+				"colorName": "RUST CHERRY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/e8da007d-ff1c-4db6-abcd-4e0fe1c486ab.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/e8da007d-ff1c-4db6-abcd-4e0fe1c486ab.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/e8da007d-ff1c-4db6-abcd-4e0fe1c486ab.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/e8da007d-ff1c-4db6-abcd-4e0fe1c486ab.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/e8da007d-ff1c-4db6-abcd-4e0fe1c486ab.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/e8da007d-ff1c-4db6-abcd-4e0fe1c486ab.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6044123": {
+				"id": 6044123,
+				"colorId": "201",
+				"colorName": "RUST CHERRY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/4662cfa4-d27a-490e-9fe1-39742869b03a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/4662cfa4-d27a-490e-9fe1-39742869b03a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/4662cfa4-d27a-490e-9fe1-39742869b03a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/4662cfa4-d27a-490e-9fe1-39742869b03a.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/4662cfa4-d27a-490e-9fe1-39742869b03a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/4662cfa4-d27a-490e-9fe1-39742869b03a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6044133": {
+				"id": 6044133,
+				"colorId": "201",
+				"colorName": "RUST CHERRY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/ed0ed74d-2888-4e49-80e6-618deac3927c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/ed0ed74d-2888-4e49-80e6-618deac3927c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/ed0ed74d-2888-4e49-80e6-618deac3927c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/ed0ed74d-2888-4e49-80e6-618deac3927c.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/ed0ed74d-2888-4e49-80e6-618deac3927c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/ed0ed74d-2888-4e49-80e6-618deac3927c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6045113": {
+				"id": 6045113,
+				"colorId": "4",
+				"colorName": "301",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/9f3d9f7a-7247-4de5-b895-2e6c555de51d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/9f3d9f7a-7247-4de5-b895-2e6c555de51d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/9f3d9f7a-7247-4de5-b895-2e6c555de51d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/9f3d9f7a-7247-4de5-b895-2e6c555de51d.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/9f3d9f7a-7247-4de5-b895-2e6c555de51d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/9f3d9f7a-7247-4de5-b895-2e6c555de51d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6045123": {
+				"id": 6045123,
+				"colorId": "4",
+				"colorName": "301",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/3e8f3e40-e519-4211-b986-40fd2b81c885.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/3e8f3e40-e519-4211-b986-40fd2b81c885.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/3e8f3e40-e519-4211-b986-40fd2b81c885.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/3e8f3e40-e519-4211-b986-40fd2b81c885.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/3e8f3e40-e519-4211-b986-40fd2b81c885.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/3e8f3e40-e519-4211-b986-40fd2b81c885.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6045133": {
+				"id": 6045133,
+				"colorId": "4",
+				"colorName": "301",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/9200ec1d-5fba-487c-a079-f7f9eed5cf99.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/9200ec1d-5fba-487c-a079-f7f9eed5cf99.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/9200ec1d-5fba-487c-a079-f7f9eed5cf99.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/9200ec1d-5fba-487c-a079-f7f9eed5cf99.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/9200ec1d-5fba-487c-a079-f7f9eed5cf99.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/9200ec1d-5fba-487c-a079-f7f9eed5cf99.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6046113": {
+				"id": 6046113,
+				"colorId": "302",
+				"colorName": "GREEN ROSIN",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/6abd4175-7dd0-4c5a-b7d9-8fb30b855425.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/6abd4175-7dd0-4c5a-b7d9-8fb30b855425.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/6abd4175-7dd0-4c5a-b7d9-8fb30b855425.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/6abd4175-7dd0-4c5a-b7d9-8fb30b855425.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/6abd4175-7dd0-4c5a-b7d9-8fb30b855425.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/6abd4175-7dd0-4c5a-b7d9-8fb30b855425.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6046123": {
+				"id": 6046123,
+				"colorId": "302",
+				"colorName": "GREEN ROSIN",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/b2a9e545-6eb6-4217-b493-a4f2bf89fa30.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/b2a9e545-6eb6-4217-b493-a4f2bf89fa30.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/b2a9e545-6eb6-4217-b493-a4f2bf89fa30.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/b2a9e545-6eb6-4217-b493-a4f2bf89fa30.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/b2a9e545-6eb6-4217-b493-a4f2bf89fa30.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/b2a9e545-6eb6-4217-b493-a4f2bf89fa30.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6047113": {
+				"id": 6047113,
+				"colorId": "303",
+				"colorName": "GREEN TOPIARY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/d313db07-361b-4c0a-97f5-9369b2a8401e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/d313db07-361b-4c0a-97f5-9369b2a8401e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/d313db07-361b-4c0a-97f5-9369b2a8401e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/d313db07-361b-4c0a-97f5-9369b2a8401e.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/d313db07-361b-4c0a-97f5-9369b2a8401e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/d313db07-361b-4c0a-97f5-9369b2a8401e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6047123": {
+				"id": 6047123,
+				"colorId": "303",
+				"colorName": "GREEN TOPIARY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/c2b84170-1b1c-4bb6-8cf6-dd9058c446de.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/c2b84170-1b1c-4bb6-8cf6-dd9058c446de.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/c2b84170-1b1c-4bb6-8cf6-dd9058c446de.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/c2b84170-1b1c-4bb6-8cf6-dd9058c446de.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/c2b84170-1b1c-4bb6-8cf6-dd9058c446de.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/c2b84170-1b1c-4bb6-8cf6-dd9058c446de.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6047133": {
+				"id": 6047133,
+				"colorId": "303",
+				"colorName": "GREEN TOPIARY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/c261a834-470a-4da4-9a43-a37728c5633e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/c261a834-470a-4da4-9a43-a37728c5633e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/c261a834-470a-4da4-9a43-a37728c5633e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/c261a834-470a-4da4-9a43-a37728c5633e.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/c261a834-470a-4da4-9a43-a37728c5633e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/c261a834-470a-4da4-9a43-a37728c5633e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6048113": {
+				"id": 6048113,
+				"colorId": "304",
+				"colorName": "GREEN JUNIPER",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/e41799bf-deb0-4205-8cc1-3275048c76b1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/e41799bf-deb0-4205-8cc1-3275048c76b1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/e41799bf-deb0-4205-8cc1-3275048c76b1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/e41799bf-deb0-4205-8cc1-3275048c76b1.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/e41799bf-deb0-4205-8cc1-3275048c76b1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/e41799bf-deb0-4205-8cc1-3275048c76b1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6048123": {
+				"id": 6048123,
+				"colorId": "304",
+				"colorName": "GREEN JUNIPER",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/c0353247-3e5b-437a-8ce0-b811bec22720.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/c0353247-3e5b-437a-8ce0-b811bec22720.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/c0353247-3e5b-437a-8ce0-b811bec22720.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/c0353247-3e5b-437a-8ce0-b811bec22720.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/c0353247-3e5b-437a-8ce0-b811bec22720.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/c0353247-3e5b-437a-8ce0-b811bec22720.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6049113": {
+				"id": 6049113,
+				"colorId": "330",
+				"colorName": "GREEN SERENE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/b630251f-fafa-496d-98a0-36e94e402884.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/b630251f-fafa-496d-98a0-36e94e402884.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/b630251f-fafa-496d-98a0-36e94e402884.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/b630251f-fafa-496d-98a0-36e94e402884.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/b630251f-fafa-496d-98a0-36e94e402884.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/b630251f-fafa-496d-98a0-36e94e402884.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6049123": {
+				"id": 6049123,
+				"colorId": "330",
+				"colorName": "GREEN SERENE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/45f41040-8eaa-4ec8-887b-95640b5b1ba6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/45f41040-8eaa-4ec8-887b-95640b5b1ba6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/45f41040-8eaa-4ec8-887b-95640b5b1ba6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/45f41040-8eaa-4ec8-887b-95640b5b1ba6.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/45f41040-8eaa-4ec8-887b-95640b5b1ba6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/45f41040-8eaa-4ec8-887b-95640b5b1ba6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6050113": {
+				"id": 6050113,
+				"colorId": "331",
+				"colorName": "GREEN CELERY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/dd7fe3df-26a9-46ee-b3c1-ef7c9d440d6f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/dd7fe3df-26a9-46ee-b3c1-ef7c9d440d6f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/dd7fe3df-26a9-46ee-b3c1-ef7c9d440d6f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/dd7fe3df-26a9-46ee-b3c1-ef7c9d440d6f.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/dd7fe3df-26a9-46ee-b3c1-ef7c9d440d6f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/dd7fe3df-26a9-46ee-b3c1-ef7c9d440d6f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6050123": {
+				"id": 6050123,
+				"colorId": "331",
+				"colorName": "GREEN CELERY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/03041eb5-caf7-4c19-b703-10c8826bb9e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/03041eb5-caf7-4c19-b703-10c8826bb9e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/03041eb5-caf7-4c19-b703-10c8826bb9e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/03041eb5-caf7-4c19-b703-10c8826bb9e4.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/03041eb5-caf7-4c19-b703-10c8826bb9e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/03041eb5-caf7-4c19-b703-10c8826bb9e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6050133": {
+				"id": 6050133,
+				"colorId": "331",
+				"colorName": "GREEN CELERY",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/8c9c678a-95de-4170-ae4c-d2326746a495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/8c9c678a-95de-4170-ae4c-d2326746a495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/8c9c678a-95de-4170-ae4c-d2326746a495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/8c9c678a-95de-4170-ae4c-d2326746a495.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/8c9c678a-95de-4170-ae4c-d2326746a495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/8c9c678a-95de-4170-ae4c-d2326746a495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6051113": {
+				"id": 6051113,
+				"colorId": "401",
+				"colorName": "NAVY LIMOGES",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/7076de79-ba94-4b3d-9031-68800f23b312.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/7076de79-ba94-4b3d-9031-68800f23b312.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/7076de79-ba94-4b3d-9031-68800f23b312.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/7076de79-ba94-4b3d-9031-68800f23b312.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/7076de79-ba94-4b3d-9031-68800f23b312.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/7076de79-ba94-4b3d-9031-68800f23b312.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6051123": {
+				"id": 6051123,
+				"colorId": "401",
+				"colorName": "NAVY LIMOGES",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/f4331846-8c30-4b0b-bdb6-7d0de9331118.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/f4331846-8c30-4b0b-bdb6-7d0de9331118.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/f4331846-8c30-4b0b-bdb6-7d0de9331118.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/f4331846-8c30-4b0b-bdb6-7d0de9331118.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/f4331846-8c30-4b0b-bdb6-7d0de9331118.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/f4331846-8c30-4b0b-bdb6-7d0de9331118.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6051133": {
+				"id": 6051133,
+				"colorId": "401",
+				"colorName": "NAVY LIMOGES",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/b5aa5b96-ec3e-4bfb-bcd0-1bbdf7188594.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/b5aa5b96-ec3e-4bfb-bcd0-1bbdf7188594.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/b5aa5b96-ec3e-4bfb-bcd0-1bbdf7188594.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/b5aa5b96-ec3e-4bfb-bcd0-1bbdf7188594.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/b5aa5b96-ec3e-4bfb-bcd0-1bbdf7188594.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/b5aa5b96-ec3e-4bfb-bcd0-1bbdf7188594.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6052113": {
+				"id": 6052113,
+				"colorId": "402",
+				"colorName": "NAVY DENIM",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/2523373b-6a69-45f9-b8ca-107c9dc84535.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/2523373b-6a69-45f9-b8ca-107c9dc84535.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/2523373b-6a69-45f9-b8ca-107c9dc84535.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/2523373b-6a69-45f9-b8ca-107c9dc84535.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/2523373b-6a69-45f9-b8ca-107c9dc84535.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/2523373b-6a69-45f9-b8ca-107c9dc84535.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6052123": {
+				"id": 6052123,
+				"colorId": "402",
+				"colorName": "NAVY DENIM",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/30edf982-cc23-480a-8fc0-d9dee5ef9610.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/30edf982-cc23-480a-8fc0-d9dee5ef9610.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/30edf982-cc23-480a-8fc0-d9dee5ef9610.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/30edf982-cc23-480a-8fc0-d9dee5ef9610.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/30edf982-cc23-480a-8fc0-d9dee5ef9610.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/30edf982-cc23-480a-8fc0-d9dee5ef9610.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6052133": {
+				"id": 6052133,
+				"colorId": "402",
+				"colorName": "NAVY DENIM",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/f20446b6-4ddc-43bd-a8e9-d5dd0a6dbc47.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/f20446b6-4ddc-43bd-a8e9-d5dd0a6dbc47.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/f20446b6-4ddc-43bd-a8e9-d5dd0a6dbc47.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/f20446b6-4ddc-43bd-a8e9-d5dd0a6dbc47.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/f20446b6-4ddc-43bd-a8e9-d5dd0a6dbc47.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/f20446b6-4ddc-43bd-a8e9-d5dd0a6dbc47.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6053113": {
+				"id": 6053113,
+				"colorId": "403",
+				"colorName": "BLUE INSIGNIA",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/5313cc97-92e3-48ac-9a41-978dcdad8bb1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/5313cc97-92e3-48ac-9a41-978dcdad8bb1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/5313cc97-92e3-48ac-9a41-978dcdad8bb1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/5313cc97-92e3-48ac-9a41-978dcdad8bb1.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/5313cc97-92e3-48ac-9a41-978dcdad8bb1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/5313cc97-92e3-48ac-9a41-978dcdad8bb1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6053123": {
+				"id": 6053123,
+				"colorId": "403",
+				"colorName": "BLUE INSIGNIA",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/2d45f89b-6b4b-4232-b386-1942dec1e880.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/2d45f89b-6b4b-4232-b386-1942dec1e880.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/2d45f89b-6b4b-4232-b386-1942dec1e880.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/2d45f89b-6b4b-4232-b386-1942dec1e880.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/2d45f89b-6b4b-4232-b386-1942dec1e880.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/2d45f89b-6b4b-4232-b386-1942dec1e880.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6053133": {
+				"id": 6053133,
+				"colorId": "403",
+				"colorName": "BLUE INSIGNIA",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/7cb8aee9-7cd5-4819-9bb3-28af3b7b88ae.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/7cb8aee9-7cd5-4819-9bb3-28af3b7b88ae.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/7cb8aee9-7cd5-4819-9bb3-28af3b7b88ae.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/7cb8aee9-7cd5-4819-9bb3-28af3b7b88ae.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/7cb8aee9-7cd5-4819-9bb3-28af3b7b88ae.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/7cb8aee9-7cd5-4819-9bb3-28af3b7b88ae.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6054113": {
+				"id": 6054113,
+				"colorId": "405",
+				"colorName": "NAVY SAPPHIRE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/3a897344-bbed-4050-9cfb-53e03c65ec57.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/3a897344-bbed-4050-9cfb-53e03c65ec57.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/3a897344-bbed-4050-9cfb-53e03c65ec57.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/3a897344-bbed-4050-9cfb-53e03c65ec57.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/3a897344-bbed-4050-9cfb-53e03c65ec57.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/3a897344-bbed-4050-9cfb-53e03c65ec57.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6054123": {
+				"id": 6054123,
+				"colorId": "405",
+				"colorName": "NAVY SAPPHIRE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/c4e28a3c-0c8e-4504-92cc-a5730118e93a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/c4e28a3c-0c8e-4504-92cc-a5730118e93a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/c4e28a3c-0c8e-4504-92cc-a5730118e93a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/c4e28a3c-0c8e-4504-92cc-a5730118e93a.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/c4e28a3c-0c8e-4504-92cc-a5730118e93a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/c4e28a3c-0c8e-4504-92cc-a5730118e93a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6054133": {
+				"id": 6054133,
+				"colorId": "405",
+				"colorName": "NAVY SAPPHIRE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/0049a0aa-d76a-490b-83a5-4a3eb820135c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/0049a0aa-d76a-490b-83a5-4a3eb820135c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/0049a0aa-d76a-490b-83a5-4a3eb820135c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/0049a0aa-d76a-490b-83a5-4a3eb820135c.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/0049a0aa-d76a-490b-83a5-4a3eb820135c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/0049a0aa-d76a-490b-83a5-4a3eb820135c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6055113": {
+				"id": 6055113,
+				"colorId": "450",
+				"colorName": "BLUE CLEARWATER",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/f9ac8cad-dbf2-4032-8e20-6cb6f3073199.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/f9ac8cad-dbf2-4032-8e20-6cb6f3073199.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/f9ac8cad-dbf2-4032-8e20-6cb6f3073199.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/f9ac8cad-dbf2-4032-8e20-6cb6f3073199.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/f9ac8cad-dbf2-4032-8e20-6cb6f3073199.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/f9ac8cad-dbf2-4032-8e20-6cb6f3073199.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6056113": {
+				"id": 6056113,
+				"colorId": "510",
+				"colorName": "PURPLE MOON",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/5dd0cf8c-a679-4f99-b9a0-b93b4b199b76.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/5dd0cf8c-a679-4f99-b9a0-b93b4b199b76.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/5dd0cf8c-a679-4f99-b9a0-b93b4b199b76.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/5dd0cf8c-a679-4f99-b9a0-b93b4b199b76.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/5dd0cf8c-a679-4f99-b9a0-b93b4b199b76.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/5dd0cf8c-a679-4f99-b9a0-b93b4b199b76.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6056123": {
+				"id": 6056123,
+				"colorId": "510",
+				"colorName": "PURPLE MOON",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/f769684d-7122-4dee-874c-e2e2966c031b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/f769684d-7122-4dee-874c-e2e2966c031b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/f769684d-7122-4dee-874c-e2e2966c031b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/f769684d-7122-4dee-874c-e2e2966c031b.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/f769684d-7122-4dee-874c-e2e2966c031b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/f769684d-7122-4dee-874c-e2e2966c031b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6057113": {
+				"id": 6057113,
+				"colorId": "511",
+				"colorName": "PURPLE STRIKING",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/70c97921-f3fe-48f0-a115-9588eed5a845.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/70c97921-f3fe-48f0-a115-9588eed5a845.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/70c97921-f3fe-48f0-a115-9588eed5a845.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/70c97921-f3fe-48f0-a115-9588eed5a845.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/70c97921-f3fe-48f0-a115-9588eed5a845.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/70c97921-f3fe-48f0-a115-9588eed5a845.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6057123": {
+				"id": 6057123,
+				"colorId": "511",
+				"colorName": "PURPLE STRIKING",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/bddaa6e1-6218-463a-8a37-61301774e295.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/bddaa6e1-6218-463a-8a37-61301774e295.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/bddaa6e1-6218-463a-8a37-61301774e295.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/bddaa6e1-6218-463a-8a37-61301774e295.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/bddaa6e1-6218-463a-8a37-61301774e295.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/bddaa6e1-6218-463a-8a37-61301774e295.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6057133": {
+				"id": 6057133,
+				"colorId": "511",
+				"colorName": "PURPLE STRIKING",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/10636992-1738-46b1-b4d5-877f0787da1d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/10636992-1738-46b1-b4d5-877f0787da1d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/10636992-1738-46b1-b4d5-877f0787da1d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/10636992-1738-46b1-b4d5-877f0787da1d.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/10636992-1738-46b1-b4d5-877f0787da1d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/10636992-1738-46b1-b4d5-877f0787da1d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6058113": {
+				"id": 6058113,
+				"colorId": "512",
+				"colorName": "PURPLE MESA",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/763f349a-0ab5-4ae7-8105-e58a3987bb89.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/763f349a-0ab5-4ae7-8105-e58a3987bb89.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/763f349a-0ab5-4ae7-8105-e58a3987bb89.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/763f349a-0ab5-4ae7-8105-e58a3987bb89.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/763f349a-0ab5-4ae7-8105-e58a3987bb89.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/763f349a-0ab5-4ae7-8105-e58a3987bb89.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6058123": {
+				"id": 6058123,
+				"colorId": "512",
+				"colorName": "PURPLE MESA",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/a7ea3824-177b-45d9-8c93-39ddd3bbe495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/a7ea3824-177b-45d9-8c93-39ddd3bbe495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/a7ea3824-177b-45d9-8c93-39ddd3bbe495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/a7ea3824-177b-45d9-8c93-39ddd3bbe495.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/a7ea3824-177b-45d9-8c93-39ddd3bbe495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/a7ea3824-177b-45d9-8c93-39ddd3bbe495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6058133": {
+				"id": 6058133,
+				"colorId": "512",
+				"colorName": "PURPLE MESA",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/bed64c1f-5671-46ee-8940-8c160a069726.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/bed64c1f-5671-46ee-8940-8c160a069726.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/bed64c1f-5671-46ee-8940-8c160a069726.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/bed64c1f-5671-46ee-8940-8c160a069726.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/bed64c1f-5671-46ee-8940-8c160a069726.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/bed64c1f-5671-46ee-8940-8c160a069726.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6059113": {
+				"id": 6059113,
+				"colorId": "531",
+				"colorName": "PURPLE COSMIC",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/b03c0527-0436-46e2-8012-47007f10fdaa.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/b03c0527-0436-46e2-8012-47007f10fdaa.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/b03c0527-0436-46e2-8012-47007f10fdaa.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/b03c0527-0436-46e2-8012-47007f10fdaa.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/b03c0527-0436-46e2-8012-47007f10fdaa.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/b03c0527-0436-46e2-8012-47007f10fdaa.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6059123": {
+				"id": 6059123,
+				"colorId": "531",
+				"colorName": "PURPLE COSMIC",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/9eb833e6-c3e7-4f89-ad99-96a5478db93c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/9eb833e6-c3e7-4f89-ad99-96a5478db93c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/9eb833e6-c3e7-4f89-ad99-96a5478db93c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/9eb833e6-c3e7-4f89-ad99-96a5478db93c.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/9eb833e6-c3e7-4f89-ad99-96a5478db93c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/9eb833e6-c3e7-4f89-ad99-96a5478db93c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6059133": {
+				"id": 6059133,
+				"colorId": "531",
+				"colorName": "PURPLE COSMIC",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/4b93c600-fb84-4f4a-ab1e-366febd94259.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/4b93c600-fb84-4f4a-ab1e-366febd94259.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/4b93c600-fb84-4f4a-ab1e-366febd94259.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/4b93c600-fb84-4f4a-ab1e-366febd94259.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/4b93c600-fb84-4f4a-ab1e-366febd94259.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/4b93c600-fb84-4f4a-ab1e-366febd94259.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6060113": {
+				"id": 6060113,
+				"colorId": "600",
+				"colorName": "BURGUNDY HUCKLE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6060123": {
+				"id": 6060123,
+				"colorId": "600",
+				"colorName": "BURGUNDY HUCKLE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6060133": {
+				"id": 6060133,
+				"colorId": "600",
+				"colorName": "BURGUNDY HUCKLE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6061113": {
+				"id": 6061113,
+				"colorId": "20",
+				"colorName": "651",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/fd7d7875-04fd-461c-a1e8-ad8a96815fe4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/fd7d7875-04fd-461c-a1e8-ad8a96815fe4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/fd7d7875-04fd-461c-a1e8-ad8a96815fe4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/fd7d7875-04fd-461c-a1e8-ad8a96815fe4.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/fd7d7875-04fd-461c-a1e8-ad8a96815fe4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/fd7d7875-04fd-461c-a1e8-ad8a96815fe4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6061123": {
+				"id": 6061123,
+				"colorId": "20",
+				"colorName": "651",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/8cf7cb0f-9dec-463a-b6aa-1970ba897dbc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/8cf7cb0f-9dec-463a-b6aa-1970ba897dbc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/8cf7cb0f-9dec-463a-b6aa-1970ba897dbc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/8cf7cb0f-9dec-463a-b6aa-1970ba897dbc.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/8cf7cb0f-9dec-463a-b6aa-1970ba897dbc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/8cf7cb0f-9dec-463a-b6aa-1970ba897dbc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6061133": {
+				"id": 6061133,
+				"colorId": "20",
+				"colorName": "651",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/e6e47fad-92d4-4d07-879e-b49b3d4324f5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/e6e47fad-92d4-4d07-879e-b49b3d4324f5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/e6e47fad-92d4-4d07-879e-b49b3d4324f5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/e6e47fad-92d4-4d07-879e-b49b3d4324f5.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/e6e47fad-92d4-4d07-879e-b49b3d4324f5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/e6e47fad-92d4-4d07-879e-b49b3d4324f5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6062113": {
+				"id": 6062113,
+				"colorId": "660",
+				"colorName": "PINK GALE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/d2af9fd8-393c-4a30-8f42-87bc282a18fb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/d2af9fd8-393c-4a30-8f42-87bc282a18fb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/d2af9fd8-393c-4a30-8f42-87bc282a18fb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/d2af9fd8-393c-4a30-8f42-87bc282a18fb.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/d2af9fd8-393c-4a30-8f42-87bc282a18fb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/d2af9fd8-393c-4a30-8f42-87bc282a18fb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6062123": {
+				"id": 6062123,
+				"colorId": "660",
+				"colorName": "PINK GALE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/d1e85126-5327-46be-94db-f3fac3f873e3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/d1e85126-5327-46be-94db-f3fac3f873e3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/d1e85126-5327-46be-94db-f3fac3f873e3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/d1e85126-5327-46be-94db-f3fac3f873e3.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/d1e85126-5327-46be-94db-f3fac3f873e3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/d1e85126-5327-46be-94db-f3fac3f873e3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6062133": {
+				"id": 6062133,
+				"colorId": "660",
+				"colorName": "PINK GALE",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/843053a5-2253-4363-9f02-df35eaedf35f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/843053a5-2253-4363-9f02-df35eaedf35f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/843053a5-2253-4363-9f02-df35eaedf35f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/843053a5-2253-4363-9f02-df35eaedf35f.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/843053a5-2253-4363-9f02-df35eaedf35f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/843053a5-2253-4363-9f02-df35eaedf35f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6063113": {
+				"id": 6063113,
+				"colorId": "22",
+				"colorName": "530",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/6f434267-f9cf-48e8-b2c8-c078901f43cd.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6063123": {
+				"id": 6063123,
+				"colorId": "22",
+				"colorName": "530",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/81dd7cfc-832b-44ca-9155-810317141631.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6063133": {
+				"id": 6063133,
+				"colorId": "22",
+				"colorName": "530",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/ed1d613a-bd5a-4a50-bba8-6d075bf13c80.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/ed1d613a-bd5a-4a50-bba8-6d075bf13c80.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/ed1d613a-bd5a-4a50-bba8-6d075bf13c80.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/ed1d613a-bd5a-4a50-bba8-6d075bf13c80.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/ed1d613a-bd5a-4a50-bba8-6d075bf13c80.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/ed1d613a-bd5a-4a50-bba8-6d075bf13c80.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			},
+			"6064113": {
+				"id": 6064113,
+				"colorId": "23",
+				"colorName": "938",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/fd5b48a5-74ae-42e1-a319-94066fd478f7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Main",
+				"mediaType": "Image",
+				"sortId": 1
+			},
+			"6064123": {
+				"id": 6064123,
+				"colorId": "23",
+				"colorName": "938",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/9e554515-2984-4f18-9229-a8efaed21670.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 2
+			},
+			"6064133": {
+				"id": 6064133,
+				"colorId": "23",
+				"colorName": "938",
+				"imageMediaUri": {
+					"smallDesktop": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=489&h=750",
+					"largeDesktop": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+					"zoom": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1318",
+					"mobileSmall": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?trim=color&pad_color=FFF&format=jpeg&w=350&h=536&trimcolor=FFF",
+					"mobileZoom": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=860&h=1319",
+					"mini": "https://n.nordstrommedia.com/id/sr3/f2ba7d58-1a7c-413e-b803-cbc0a502cf31.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=60&h=90"
+				},
+				"isDefault": false,
+				"isSelected": false,
+				"isTrimmed": false,
+				"mediaGroupType": "Alternate",
+				"mediaType": "Image",
+				"sortId": 3
+			}
+		},
+		"allIds": [6041113, 6041123, 6041133, 6042113, 6042123, 6043113, 6043123, 6044113, 6044123, 6044133, 6045113, 6045123, 6045133, 6046113, 6046123, 6047113, 6047123, 6047133, 6048113, 6048123, 6049113, 6049123, 6050113, 6050123, 6050133, 6051113, 6051123, 6051133, 6052113, 6052123, 6052133, 6053113, 6053123, 6053133, 6054113, 6054123, 6054133, 6055113, 6056113, 6056123, 6057113, 6057123, 6057133, 6058113, 6058123, 6058133, 6059113, 6059123, 6059133, 6060113, 6060123, 6060133, 6061113, 6061123, 6061133, 6062113, 6062123, 6062133, 6063113, 6063123, 6063133, 6064113, 6064123, 6064133]
+	},
+	"styleNumber": "6516757",
+	"styleVideos": {
+		"byId": {},
+		"allIds": []
+	},
+	"treatmentType": "Regular",
+	"vendorVideoShot": null,
+	"page": {
+		"PageName": "pdp_rack 02/07/22 Extended returns window end",
+		"Components": [{
+				"Id": "f719624a-b577-42e9-bc1e-c44501a14ed5",
+				"ComponentName": "price_lockup",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "free_shipping_message",
+					"text": "FREE SHIPPING ON ORDERS $89+"
+				}, {
+					"heading": "price_info_popover",
+					"liveText": "<p>This comparable value and corresponding percentage are based on what the item, or similar item, was originally offered for at department stores and boutiques, which may have been reported to us by the manufacturer. Prices vary, but we think you’ll love ours. Please see our <a title=\"\" href=\"https://www.nordstromrack.com/faq\">FAQs</a> for more information.</p>",
+					"text": "Comparable Value"
+				}, {
+					"heading": "free_shipping_icon",
+					"text": "rack"
+				}, {
+					"heading": "clear_the_rack_message",
+					"text": "Extra <%= percentOff %> off applied"
+				}]
+			}, {
+				"Id": "2ff70fa8-fa09-411f-a569-bc9b20bf9859",
+				"ComponentName": "BOFLEX",
+				"SchemaName": "pdpBoflex",
+				"Sections": {
+					"Boflex": {
+						"Location": "SHOPPING IN:",
+						"SetLocation": "Set Location"
+					},
+					"FreePickupRadioButton": {
+						"ChooseStore": "Choose store",
+						"FreePickup": "Free Pickup",
+						"FreePickupAt": "Free Pickup at",
+						"NotAvailable": "Not available for pickup"
+					},
+					"FreeShippingRadioButton": {
+						"FreeShipping": "Free Shipping to",
+						"ShippingEta": "Arrives between "
+					},
+					"PickUpPromises": {
+						"NotInStock": "Not available",
+						"TryAnotherLocation": "Try another location."
+					},
+					"PickupAndDeliveryModal": {
+						"FreeShipping": {
+							"Arrival": "Arrives between",
+							"Title": "Free Shipping to"
+						},
+						"PickupSection": {
+							"Available": "Available for pickup near you at",
+							"Locations": "locations",
+							"NotAvailableDescription": "<p>Still want free pickup? Choose <strong>Ship to a Nordstrom Store</strong> at Checkout and pick up your order later.</p>",
+							"NotAvailableTitle": "Not available at a store near you"
+						},
+						"SubmitButton": "Apply",
+						"Title": "Pickup & Delivery",
+						"ZipCodeForm": {
+							"Description": "Set a location to see pickup and delivery options.",
+							"ErrorMessage": "We can’t check your location right now. Try again soon.",
+							"SubmitButton": "Find Locations",
+							"TryAgain": "Enter the ZIP Code and try again."
+						}
+					},
+					"Promotions": {},
+					"ShipToPromises": {
+						"Arrival": "Arrives between ",
+						"Shipping": "Free Shipping",
+						"ShippingSpecialMessage": "We're offering free curbside and in-store pickup."
+					},
+					"ZipCodeForm": {
+						"EnterYourZipcode": "Enter your zip code to see delivery & pickup options near you.",
+						"ErrorMessage": "We can’t check your location right now. Try again soon.",
+						"TryAgainMessage": "Enter the ZIP Code and try again."
+					}
+				}
+			}, {
+				"Id": "fb71156e-3cdc-4c8b-9c09-f3ea448c31b5",
+				"ComponentName": "Wishlist",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "Add_To_Wishlist",
+					"text": "Add to Wish List"
+				}, {
+					"heading": "Added_To_Wishlist",
+					"text": "Added to Wish List"
+				}]
+			}, {
+				"Id": "7bddb30d-ef9b-4235-a2d8-a79ab5cea238",
+				"ComponentName": "Scheduled Fulfillment",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "BackOrderTitle",
+					"text": "Backordered Item:"
+				}, {
+					"heading": "BackOrderText",
+					"text": "Your current size and color combination will ship on or around <%= date %>."
+				}, {
+					"heading": "PreOrderTitle",
+					"text": "Pre-order this style today!"
+				}, {
+					"heading": "PreOrderText",
+					"text": "Ships as soon as available. You'll be charged only when your item ships."
+				}, {
+					"heading": "EarlyAccessBackOrderTitle",
+					"text": "Order now!"
+				}, {
+					"heading": "AnniversaryBackOrderTitle",
+					"text": "Order now!"
+				}]
+			}, {
+				"Id": "716cad52-0b90-42b0-b8cb-868d79ad79ea",
+				"ComponentName": "free_shipping_and_return_details v1.0.0",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "header",
+					"text": "Shipping & Returns"
+				}, {
+					"heading": "details_live_text",
+					"liveText": "<ul>\\n  <li>This item qualifies for free shipping on orders over $89. <a title=\"View Shipping &amp; Returns Policy\" href=\"/ship-return-policy\">View Shipping &amp; Returns Policy</a>.</li>\\n  <li>This item is returnable within 45 days by mail or to a U.S. Nordstrom Rack and U.S. Nordstrom Store.</li>\\n</ul>"
+				}, {
+					"heading": "shipping_details_live_text",
+					"liveText": "<p>This item qualifies for free shipping on orders over $89.<a title=\"View Shipping &amp; Returns Policy\" href=\"/ship-return-policy\">View Shipping &amp; Returns Policy</a>.</p>"
+				}, {
+					"heading": "final_sale_intro",
+					"text": "This item is"
+				}, {
+					"heading": "final_sale_key_word",
+					"text": "Final Sale"
+				}, {
+					"heading": "final_sale_ending",
+					"text": "and is not eligible for return."
+				}]
+			}, {
+				"Id": "355b1107-15c0-4d9f-b86a-73e0f11c71d2",
+				"ComponentName": "rec_placements",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "data",
+					"text": "{\\n    \"PDP_1\": {\\n        \"name\": \"ProductPage1\",\\n        \"bound\": \"6\"\\n    },\\n    \"PDP_1_OOS\": {\\n        \"name\": \"ProductPageOOS1\",\\n        \"bound\": \"24\"\\n    },\\n    \"PDP_2\": {\\n        \"name\": \"ProductPage2\",\\n        \"bound\": \"24\"\\n    },\\n    \"PDP_2_OOS\": {\\n        \"name\": \"ProductPageOOS2\",\\n        \"bound\": \"24\"\\n    },\\n    \"PDP_3_OOS\": {\\n        \"name\": \"ProductPageOOS3\",\\n        \"bound\": \"24\"\\n    },\\n    \"PDP_ATB\": {\\n        \"name\": \"PostAddToBag1\",\\n        \"bound\": \"10\"\\n    },\\n    \"MOBI_PDP_1\": {\\n        \"name\": \"ProductPage1\",\\n        \"bound\": \"24\"\\n    },\\n    \"MOBI_PDP_1_OOS\": {\\n        \"name\": \"ProductPageOOS1\",\\n        \"bound\": \"24\"\\n    },\\n    \"MOBI_PDP_2\": {\\n        \"name\": \"ProductPage2\",\\n        \"bound\": \"24\"\\n    },\\n    \"MOBI_PDP_2_OOS\": {\\n        \"name\": \"ProductPageOOS2\",\\n        \"bound\": \"24\"\\n    },\\n    \"MOBI_PDP_3_OOS\": {\\n        \"name\": \"ProductPageOOS3\",\\n        \"bound\": \"24\"\\n    }\\n}"
+				}]
+			}, {
+				"Id": "279e7341-7978-4917-9f07-c8f03cb95b9f",
+				"ComponentName": "post_add_to_bag_modal",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "modal_titles"
+				}, {
+					"heading": "sale_messages",
+					"text": "{\\n    \"anniversarySaleMessages\": {\\n        \"anniversaryLastDay\": \"Order soon! #Nsale ends today.\",\\n        \"anniversary\": \"Hurry! #Nsale items sell out fast.\",\\n        \"earlyAccessLastDay\": \"Last chance to buy before everyone else.\",\\n        \"earlyAccess\": \"Hurry! Items in your bag are not on hold.\"\\n    },\\n    \"regularSaleMessage\": \"Order soon\\\\u2014sale items go fast\"\\n}"
+				}, {
+					"heading": "generic",
+					"text": "{\\n    \"addedToBag\": \"Added to your bag.\",\\n    \"checkout\": \"Checkout\",\\n    \"keepShopping\": \"Keep Shopping\",\\n    \"color\": \"Color: \",\\n    \"shoppingBag\": \"View Shopping Bag \",\\n    \"size\": \"Size: \"\\n}"
+				}]
+			}, {
+				"Id": "4f3c2ee1-5a0c-43fc-89d1-b2151626fc16",
+				"ComponentName": "review_rating_only",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "review_rating_only_text",
+					"text": "ratings-only review"
+				}]
+			}, {
+				"Id": "b40cbd4f-d3e2-43c1-a1ee-a25ef377a823",
+				"ComponentName": "nord_us_active_brand_pages",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "brands",
+					"text": "UOMA BEAUTY;DR.MARTENS;TORY BURCH"
+				}]
+			}, {
+				"Id": "b3903db8-4ab9-49d3-b543-b52fa3d4f4c3",
+				"ComponentName": "first_access",
+				"SchemaName": "pdpContainerModule",
+				"Modules": [{
+					"AllUserTags": "Nordstrom,D0TU",
+					"ComponentName": "anonymous",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "da9615f7-c0db-4545-9922-c75e59e83a91",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CustomerAuthState": ["Anonymous"]
+						}, {
+							"CountryCode": ["US", "International", "CA"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC", "Toronto"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "All Provinces"]
+						}]
+					},
+					"Modules": [{
+						"heading": "first_headline",
+						"liveText": "<p>Nordy Club members—shop now!</p>"
+					}, {
+						"heading": "first_button",
+						"text": "Sign In to Add to Bag",
+						"textUrl": "/signin?ReturnURL="
+					}, {
+						"heading": "second_headline",
+						"liveText": "<p>Not part of the Nordy Club?</p>"
+					}, {
+						"heading": "second_message",
+						"text": "Join for free. Earn so much more than points."
+					}, {
+						"heading": "second_button",
+						"text": "Create Account to Add to Bag",
+						"textUrl": "/signup?ReturnURL="
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}]
+			}, {
+				"Id": "dca6a075-00fc-43e9-8926-9f0f8006e4a2",
+				"ComponentName": "gift_options_rack",
+				"SchemaName": "pdpGiftOptions",
+				"Sections": {
+					"Bottom": {
+						"Button": "Shop Gifts",
+						"ButtonMobile": "Shop Gifts",
+						"FooterText": "Need help finding the perfect gift? We've got you covered.",
+						"Url": "/promo/GiftsFoundHere"
+					},
+					"Left": {},
+					"Right": {},
+					"Top": {
+						"Header": "GIFT OPTIONS",
+						"Icon": "LargeGift",
+						"Text": "Write a gift message at Checkout and we'll email it to the recipient when their item is delivered."
+					}
+				}
+			}, {
+				"Id": "83c221dd-75f2-4119-be35-32bc00355d1b",
+				"ComponentName": "Feedback_Tab",
+				"SchemaName": "pdpModule",
+				"Modules": [{
+					"heading": "Feedback_content",
+					"text": "Feedback",
+					"textUrl": "https://www.fashionadvisors.com/surveys/e55b26c4-de02-45e3-8d5e-b035129eff63/start/a/35859c5e-8e5c-4f68-8853-95639ca64ccb?ptv=R"
+				}]
+			}, {
+				"Id": "60b6ffab-65c2-44cd-b4b5-ed41c431185b",
+				"ComponentName": "Bopus_Container",
+				"SchemaName": "pdpContainerModule",
+				"Modules": [{
+					"AllUserTags": "Nordstrom,FB4Q",
+					"ComponentName": "Bopus_v4",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "19f2baed-b3d1-4027-9726-a45d35e23d0c",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International", "CA"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC", "Toronto"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "All Provinces"]
+						}]
+					},
+					"Modules": [{
+						"heading": "Use_Location",
+						"text": "Use your current location"
+					}, {
+						"heading": "Zip_Form_Heading",
+						"text": "Edit ZIP Code"
+					}, {
+						"heading": "Zip_Form_Description",
+						"text": "Enter a ZIP Code to see when it will arrive."
+					}, {
+						"heading": "Zip_Form_Apply_Button",
+						"text": "Apply"
+					}, {
+						"heading": "Zip_Form_Search_Button",
+						"text": "Search"
+					}, {
+						"heading": "Pickup_Modal_Title",
+						"text": "Choose store"
+					}, {
+						"heading": "Pickup_Modal_Heading_Intro",
+						"text": "We offer safe in-store and"
+					}, {
+						"heading": "Pickup_Modal_Form_Description",
+						"text": "Enter ZIP Code"
+					}, {
+						"heading": "Pickup_Modal_Store_Availability",
+						"text": "stores near you"
+					}, {
+						"heading": "Pickup_Modal_No_Availability",
+						"text": "Not available for pickup near you"
+					}, {
+						"heading": "Pickup_Modal_Nearby_Stores",
+						"text": "Free Pickup at"
+					}, {
+						"heading": "Curbside_Available",
+						"text": "Curbside Pickup"
+					}, {
+						"heading": "Pickup_Modal_Heading_Link",
+						"text": "Curbside Pickup",
+						"textUrl": "/browse/customer-service/shipping-methods-charges"
+					}, {
+						"heading": "Pickup_Modal_Heading_Punctuation",
+						"text": "."
+					}, {
+						"heading": "Zip_Form_Searching_Button",
+						"text": "Searching..."
+					}, {
+						"heading": "Zip_Form_Applying_Button",
+						"text": "Applying..."
+					}, {
+						"heading": "Pickup_Modal_No_Availability_2",
+						"text": "Not available for pickup"
+					}, {
+						"heading": "Pickup_Modal_Heading_After_Link",
+						"text": "at Nordstrom stores"
+					}, {
+						"heading": "Pickup_Modal_Long_Heading_Intro",
+						"text": "We offer safe in-store pickup at all locations and"
+					}, {
+						"heading": "Pickup_Modal_Submit_Button",
+						"text": "Pick up at this store"
+					}, {
+						"heading": "Pickup_Modal_Cancel_Button",
+						"text": "Cancel"
+					}, {
+						"heading": "Pickup_Modal_No_Selected_Width_Pickup",
+						"text": "Select a width to see when it’s ready for pickup"
+					}, {
+						"heading": "Pickup_Modal_No_Selected_Size_Pickup",
+						"text": "Select a size to see when it’s ready for pickup"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,FB4Q",
+					"ComponentName": "Free_Two_Day_Shipping",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "756d9a3e-4999-4fb8-a6ed-532a9e6ca4d9",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "Free_Two_Day_Shipping",
+						"text": "Cardmembers get free two-day shipping\\non this item."
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,FB4Q",
+					"ComponentName": "Boflex",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "b66d7f4f-a2d4-4fa9-8748-b05b9781bb45",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International", "CA"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC", "Toronto"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "All Provinces"]
+						}]
+					},
+					"Modules": [{
+						"heading": "Zip_Code_Form_Error_Message",
+						"text": "We can't check your location right now. Try again soon."
+					}, {
+						"heading": "Choose_Store",
+						"text": "Choose store"
+					}, {
+						"heading": "Free_Pickup",
+						"text": "Free Pickup"
+					}, {
+						"heading": "Free_Pickup_At",
+						"text": "Free Pickup at"
+					}, {
+						"heading": "Not_Available",
+						"text": "Not available for pickup"
+					}, {
+						"heading": "Gift_Wrap",
+						"text": "Free Gift Wrap"
+					}, {
+						"heading": "Set_Location",
+						"text": "Set Location"
+					}, {
+						"heading": "Shipping_Eta",
+						"text": "Arrives between"
+					}, {
+						"heading": "Free_Shipping",
+						"text": "Free Shipping to"
+					}, {
+						"heading": "Not_Available_Title",
+						"text": "Unavailable at a store near you"
+					}, {
+						"heading": "Not_Available_Description",
+						"text": "<p>Still want free pickup? Choose <strong>Ship to a Nordstrom Store</strong> at Checkout and pick up your order later.</p>"
+					}, {
+						"heading": "Pickup_Section_Available",
+						"text": "Available for pickup near you at"
+					}, {
+						"heading": "Pickup_Section_Locations",
+						"text": "locations"
+					}, {
+						"heading": "Zip_Code_Form_Try_Again",
+						"text": "Enter the ZIP Code and try again."
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}]
+			}, {
+				"Id": "45d0bf77-dbf1-475e-9339-35efafa262f7",
+				"ComponentName": "selling_essentials_copy",
+				"SchemaName": "pdpContainerModule",
+				"Modules": [{
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "selling_statement_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "c78e9ddb-0af4-4e0b-afc5-4fa46b7350c4",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International", "CA"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC", "Toronto"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "All Provinces"]
+						}]
+					},
+					"Modules": [{
+						"heading": "item_number_label",
+						"text": "Item #"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "sale_urgency_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "659ce6e6-500d-404c-bcf0-efb2de6076eb",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "is_sale",
+						"text": "Order sooncsale items go fast!"
+					}, {
+						"heading": "is_anniversary_last_day",
+						"text": "Order soon—#NSale ends today!"
+					}, {
+						"heading": "is_anniversary",
+						"text": "Hurry! #NSale items sell out fast."
+					}, {
+						"heading": "is_early_access_last_day",
+						"text": "Order soon—last day of Early Access!"
+					}, {
+						"heading": "is_early_access",
+						"text": "Hurry! Get it before everyone else."
+					}, {
+						"heading": "is_low_quantity",
+						"text": "Only 1 left"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "add_to_bag_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "33aaa32a-00c8-47f6-a1bb-ba3b3d199f26",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International", "CA"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC", "Toronto"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "All Provinces"]
+						}]
+					},
+					"Modules": [{
+						"heading": "add_to_bag",
+						"text": "Add to Bag"
+					}, {
+						"heading": "add_to_vip_bag",
+						"text": "Add to VIP Bag"
+					}, {
+						"heading": "adding_to_bag",
+						"text": "Adding to Bag..."
+					}, {
+						"heading": "adding_to_vip_bag",
+						"text": "Adding to VIP Bag..."
+					}, {
+						"heading": "in_your_bag",
+						"text": "In Your Bag"
+					}, {
+						"heading": "in_your_vip_bag",
+						"text": "In Your VIP Bag"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "buy_now_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "87af906f-f93f-4907-ab58-ff1a084cee74",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International", "CA"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC", "Toronto"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "All Provinces"]
+						}]
+					},
+					"Modules": [{
+						"heading": "buy_now_button_title",
+						"text": "Buy Now"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "pre_order_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "cfca2e21-20b1-421c-a720-f226b288dc7b",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "pre_order_button_text",
+						"text": "Pre-order"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "pick_up_in_store_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "9b99018f-905f-4d33-ad4a-1e261d95ed69",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "buy_and_pick_up",
+						"text": "Buy & Pick Up"
+					}, {
+						"heading": "pick_it_up",
+						"text": "Pick It Up"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "price_lockup_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "7ef07f9c-0ad7-4c8f-a7b3-ab741144685e",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "after_sale_label",
+						"text": "After Sale:"
+					}, {
+						"heading": "current_price_label",
+						"text": "Now:"
+					}, {
+						"heading": "free_shipping_label",
+						"text": "FREE SHIPPING"
+					}, {
+						"heading": "international_currency_info",
+						"text": "Price varies with currency exchange rates and may be different than in store."
+					}, {
+						"heading": "max_percent_Off",
+						"text": "up to <%= percentOff %> off"
+					}, {
+						"heading": "original_price_label",
+						"text": "Orig:"
+					}, {
+						"heading": "percent_off_label",
+						"text": "<%= percentOff %> off"
+					}, {
+						"heading": "previous_price_label",
+						"text": "Was:"
+					}, {
+						"heading": "sale_label",
+						"text": "Sale:"
+					}, {
+						"heading": "sold_out_message",
+						"text": "Sold Out"
+					}, {
+						"heading": "some_skus_on_sale",
+						"text": "Sale items up to <%= percentOff %> off"
+					}, {
+						"heading": "total_savings_label",
+						"text": "<%= savingsPercentage %> total savings until <%= savingsEndDate %>"
+					}, {
+						"heading": "assistive_content_price",
+						"text": "Price"
+					}, {
+						"heading": "assistive_content_original_price",
+						"text": "Original Price"
+					}, {
+						"heading": "assistive_content_previous_price",
+						"text": "Previous Price"
+					}, {
+						"heading": "previous_percent_off_label",
+						"text": "extra <%= percentOff %> off"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "pagination_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "4a7effd3-3e52-4830-91c7-19e57d3e35e7",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "prev",
+						"text": "Previous"
+					}, {
+						"heading": "next",
+						"text": "Next"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "product_image_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "7338b35e-9412-45d5-bb75-61ff5ae95e03",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "product_image_prev",
+						"text": "Previous Product Image"
+					}, {
+						"heading": "product_iamge_next",
+						"text": "Next Product Image"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}, {
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "wedding_suite_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "eb255fbf-31f5-465b-9620-da8a115a14c9",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "bridal_visit",
+						"text": "Visit"
+					}, {
+						"heading": "bridal_messaging_line_one",
+						"text": "an in-store Wedding Suite,"
+					}, {
+						"heading": "bridal_chat",
+						"text": "chat"
+					}, {
+						"heading": "bridal_messaging_line_two",
+						"text": "with a Wedding Stylist or call 1.888.300.1295 to order."
+					}, {
+						"heading": "bridal_book_an_appointment",
+						"text": "Book an Appointment"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}]
+			}, {
+				"Id": "f52a6d23-c689-4fc6-b48e-ae556006640e",
+				"ComponentName": "product_page_copy",
+				"SchemaName": "pdpContainerModule",
+				"Modules": [{
+						"AllUserTags": "Nordstrom,GAF7",
+						"ComponentName": "breadcrumbs_copy",
+						"ComponentTemplate": {
+							"TemplateName": "No Other expedited shipping methods are available at Checkout."
+						},
+						{
+							"heading": "shipping_same_day_delivery_title",
+							"text": "Same-day delivery"
+						},
+						{
+							"heading": "shipping_same_day_delivery"
+						},
+						{
+							"heading": "shipping_show_eligible_zip_codes",
+							"text": "Show eligible zip codes and details."
+						},
+						{
+							"heading": "size_and_fit",
+							"text": "Size and Fit"
+						},
+						{
+							"heading": "size_info_title",
+							"text": "Size Info"
+						},
+						{
+							"heading": "details_and_size_info_video",
+							"text": "video"
+						},
+						{
+							"heading": "details_and_size_info_more_information",
+							"text": "More about this item"
+						}
+					],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				},
+				{
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "prop_65_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "688b329a-c66b-4f94-ad82-5cb269fdae14",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "prop_65_non_Modal_Text",
+						"text": "Proposition 65 warning for California residents"
+					}, {
+						"heading": "prop_65_title",
+						"text": "California Proposition 65"
+					}, {
+						"heading": "prop_65_message",
+						"text": "Proposition 65 is a California regulation that requires special warnings to be presented to customers if a product contains certain quantities of chemicals or toxicants known to the State of California to cause cancer, birth defects, or other reproductive harm. The following warning applies to the products linking to this page:"
+					}, {
+						"heading": "prop_65_warning",
+						"text": "WARNING:"
+					}, {
+						"heading": "prop_65_link",
+						"text": "https://www.p65warnings.ca.gov/"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				},
+				{
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "same_day_delivery_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "6ea03a50-a76e-430f-9bc2-c7516e85e41c",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "same_day_delivery_available_message",
+						"text": "is available for delivery in your area. Order by 1pm local time and select Same-Day Delivery <%= cost %> at Checkout."
+					}, {
+						"heading": "same_day_delivery_information_line_1",
+						"text": "Nordstrom is now testing an exciting Same-Day Delivery program. For just <%= cost %>, items that are in stock at your local store can be hand-delivered to your door on the same day."
+					}, {
+						"heading": "same_day_delivery_information_line_2",
+						"text": "Orders placed by 1pm will be delivered by 8pm the same day; orders placed after 1pm will be delivered by 8pm the following day-even on Saturdays and Sundays. Select Same-Day Delivery in Checkout."
+					}, {
+						"heading": "same_day_delivery_information_line_3",
+						"text": "Eligible delivery addresses, excluding P.O. boxes, are located in the following ZIP codes:"
+					}, {
+						"heading": "same_day_delivery_city_zip_codes",
+						"liveText": "<p>- Bellevue, WA: 98009, 98015, 98027, 98033, 98034, 98039, 98040, 98052, 98055, 98056, 98057, 98065, 98074, 98075, 98082, 98083, 98102, 98105, 98112, 98195, 98292, 98837, 99354</p>\\n<p>- Chicago, IL: 60016, 60018, 60022, 60025, 60026, 60029, 60043, 60053, 60056, 60062, 60068, 60076, 60091, 60093, 60104, 60126, 60130, 60137, 60138, 60141, 60148, 60149, 60153, 60154, 60155, 60162, 60163, 60164, 60165, 60181, 60187, 60189, 60191, 60201, 60202, 60203, 60204, 60208, 60305, 60513, 60514, 60515, 60516, 60521, 60522, 60523, 60525, 60526, 60527, 60532, 60558, 60559, 60561, 60601, 60602, 60603, 60603, 60604, 60605, 60606, 60607, 60608, 60610, 60611, 60612, 60613, 60614, 60616, 60618, 60618, 60618, 60622, 60624, 60625, 60626, 60630, 60631, 60634, 60640, 60642, 60645, 60646, 60647, 60647, 60651, 60653, 60654, 60656, 60657, 60659, 60660, 60661, 60690, 60706, 60712, 60714, 90025, 97201</p>\\n<p>- Dallas, TX: 75040, 75041, 75044, 75201, 75202, 75204, 75205, 75206, 75207, 75209, 75218, 75219, 75222, 75223, 75226, 75228, 75229, 75230, 75231, 75235, 75238, 75240, 75243, 75244, 75246, 75251, 75254, 75270, 75298, 75360, 75367, 75376, 75380, 85255</p>\\n<p>- Houston, TX: 77004, 77005, 77006, 77007, 77008, 77010, 77018, 77019, 77024, 77025, 77027, 77030, 77031, 77035, 77036, 77042, 77044, 77046, 77054, 77055, 77057, 77063, 77071, 77072, 77074, 77077, 77080, 77081, 77082, 77083, 77096, 77098, 77099, 77225, 77240, 77254, 77277, 77401</p>\\n<p>- Los Angeles, CA: 92603, 92604, 92605, 92606, 92609, 92612, 92614, 92617, 92619, 92623, 92625, 92626, 92627, 92628, 92646, 92647, 92648, 92649, 92655, 92657, 92658, 92659, 92660, 92661, 92662, 92663, 92667, 92683, 92701, 92703, 92704, 92706, 92707, 92708, 92711, 92728, 92761, 92780, 92781, 92794, 92799, 92840, 92842, 92843, 92844, 92863, 92868, 90602, 90603, 90604, 90606, 90607, 90608, 90621, 90622, 90631, 90632, 90638, 90639, 90670, 91748, 91765, 91788, 91792, 92805, 92806, 92822, 92823, 92831, 92832, 92833, 92834, 92835, 92838, 92865, 92867, 92870, 92885, 92886, 93405, 94588, 91302, 91303, 91304, 91306, 91307, 91316, 91322, 91324, 91325, 91326, 91327, 91328, 91330, 91331, 91335, 91343, 91344, 91345, 91346, 91356, 91357, 91359, 91364, 91365, 91367, 91376, 91380, 91385, 91401, 91402, 91403, 91405, 91406, 91409, 91411, 91416, 91423, 91436, 91604, 91605, 94115, 91001, 91005, 91006, 91007, 91008, 91010, 91016, 91017, 91024, 91025, 91030, 91031, 91101, 91103, 91104, 91105, 91107, 91108, 91118, 91188, 91702, 91706, 91722, 91724, 91731, 91732, 91733, 91740, 91741, 91744, 91746, 91754, 91769, 91770, 91773, 91775, 91776, 91778, 91780, 91790, 91793, 91801, 91803, 90004, 90005, 90006, 90007, 90008, 90010, 90011, 90012, 90013, 90014, 90015, 90016, 90017, 90018, 90019, 90020, 90021, 90024, 90025, 90026, 90027, 90028, 90029, 90031, 90033, 90034, 90035, 90036, 90037, 90038, 90039, 90043, 90045, 90046, 90047, 90048, 90049, 90050, 90053, 90056, 90057, 90058, 90062, 90064, 90065, 90066, 90067, 90068, 90069, 90071, 90075, 90079, 90089, 90090, 90094, 90210, 90211, 90212, 90230, 90232, 90272, 90291, 90292, 90295, 90301, 90302, 90304, 90305, 90401, 90402, 90404, 90405, 90406, 90813, 91102, 91521, 91522, 91602, 91604, 91605, 91606, 91607, 91608</p>\\n<p>- San Francisco, CA: 94005, 94014, 94015, 94017, 94080, 94101, 94102, 94103, 94104, 94105, 94107, 94108, 94109, 94110, 94111, 94112, 94113, 94114, 94115, 94116, 94117, 94118, 94119, 94121, 94122, 94123, 94124, 94127, 94129, 94130, 94131, 94132, 94133, 94134, 94143, 94147, 94158, 94188, 94559, 94601, 94607, 94901, 94965, 94966, 95046, 95125, 96161</p>\\n<p>- San Jose, CA: 94022, 94023, 94024, 94025, 94026, 94027, 94028, 94039, 94040, 94041, 94043, 94061, 94063, 94065, 94085, 94086, 94087, 94088, 94089, 94301, 94302, 94303, 94304, 94305, 94306, 94309, 95014, 95134, 95695, 94085, 94086, 94087, 94088, 95008, 95011, 95014, 95015, 95030, 95031, 95032, 95033, 95050, 95051, 95052, 95053, 95054, 95056, 95067, 95070, 95089, 95110, 95111, 95113, 95117, 95124, 95125, 95126, 95127, 95128, 95129, 95130, 95131, 95133, 95134, 95150, 95152, 95153, 95155, 95157, 95158, 95160, 95161</p>\\n<p>- Seattle, WA: 98046, 98101, 98102, 98103, 98104, 98105, 98107, 98109, 98111, 98112, 98113, 98114, 98115, 98117, 98119, 98121, 98122, 98124, 98127, 98129, 98132, 98134, 98139, 98141, 98144, 98145, 98154, 98161, 98164, 98170, 98174, 98181, 98185, 98190, 98191, 98194, 98195, 98199</p>\\n<p>- Washington DC: 20001, 20004, 20005, 20006, 20007, 20008, 20009, 20010, 20015, 20016, 20036, 20037, 20052, 20057, 20090, 20401, 20433, 20530, 20585, 20812, 20815, 20816, 20817, 20818, 20827, 20849, 20875, 22015, 22027, 22042, 22043, 22044, 22046, 22066, 22101, 22102, 22116, 22180, 22181, 22182, 22201, 22203, 22204, 22205, 22206, 22207, 22209, 22211, 22212, 22213, 28209, 30309, 49686</p>"
+					}, {
+						"heading": "same_day_delivery_learn_more",
+						"text": "Show eligible zip codes and details."
+					}, {
+						"heading": "same_day_delivery_title",
+						"text": "Same-day Delivery"
+					}, {
+						"heading": "same_day_delivery_outstanding_selections",
+						"text": "Select a <%= filter %> to see if you can get it delivered today."
+					}, {
+						"heading": "same_day_delivery_unavailable_message",
+						"text": "isn't available for Same-Day Delivery in your area. Other expedited shipping methods are available at Checkout."
+					}, {
+						"heading": "same_day_delivery_unavailable_message_style",
+						"text": "This product isn't available for Same-Day Delivery in your area. Other expedited shipping methods are available at Checkout."
+					}, {
+						"heading": "same_day_delivery_unavailable_message_zip",
+						"text": "Same-Day Delivery isn't currently available to your default shipping address, but other expedited shipping methods are available at Checkout."
+					}, {
+						"heading": "same_day_delivery_unavailable_selection",
+						"text": "Your <%= filter %> combination isn't available. Choose from the available options to see if same-day delivery is available for this item."
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				},
+				{
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "page_meta_data_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "f9d3e66e-5b82-4e3a-90f1-fe36e0c63e8b",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+						}]
+					},
+					"Modules": [{
+						"heading": "meta_description",
+						"text": "Free shipping and returns on <%= name %> at Nordstrom.<%= domain %>. <%= description %>"
+					}, {
+						"heading": "rack_meta_description",
+						"text": "Free shipping on orders over $89. Shop <%= brand %> <%= name %> at Nordstromrack.com. <%= description %>"
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				},
+				{
+					"AllUserTags": "Nordstrom,GAF7",
+					"ComponentName": "sold_out_copy",
+					"ComponentTemplate": {
+						"TemplateName": "No Value"
+					},
+					"Id": "b67538aa-5b26-4a6e-a21a-773a940f9e10",
+					"MetadataFields": {
+						"ContentContext": [{
+							"CountryCode": ["US", "International", "CA"]
+						}, {
+							"Device": ["Display On Desktop", "Display On Mobile"]
+						}, {
+							"GeolocationLocalMarket": ["Atlanta", "Austin", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Houston", "LA", "Miami", "Minneapolis", "NY", "Philadelphia", "Portland", "San Diego", "SF", "Seattle", "Washington DC", "Toronto"]
+						}, {
+							"GeolocationState": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "All Provinces"]
+						}]
+					},
+					"Modules": [{
+						"heading": "sold_out_title",
+						"text": "SOLD OUT"
+					}, {
+						"heading": "sold_out_message",
+						"text": "This item is no longer available. Browse our recommendations for something similar."
+					}],
+					"SchemaName": "pdpModule",
+					"Variation": "PDP Module"
+				}
+			]
+		}]
+    },
+    "rmsStyleGroupId": "6516757",
+    "isPostAtbOriginalPriceHidden": true, 
+    "shouldDisplayAfterPay": true, 
+    "defaultReviews": {
+        "filteredReviewSummary": {
+            "ratingsHistogram": [{
+                "rating": 5,
+                "reviewsCount": 280
+            }, {
+                "rating": 4,
+                "reviewsCount": 39
+            }, {
+                "rating": 3,
+                "reviewsCount": 25
+            }, {
+                "rating": 1,
+                "reviewsCount": 15
+            }, {
+                "rating": 2,
+                "reviewsCount": 12
+            }],
+            "ratingsOnlyReviewCount": 221,
+            "totalReviewCount": 371
+        },
+        "page": 1,
+        "pageSize": 6,
+        "productId": 6040113,
+        "reviewSummary": {
+            "averageRating": 4.501347708894879,
+            "categoryId": "A3_MG11_A_F",
+            "maximumRating": 5,
+            "ratingsHistogram": [{
+                "rating": 5,
+                "reviewsCount": 280
+            }, {
+                "rating": 4,
+                "reviewsCount": 39
+            }, {
+                "rating": 3,
+                "reviewsCount": 25
+            }, {
+                "rating": 1,
+                "reviewsCount": 15
+            }, {
+                "rating": 2,
+                "reviewsCount": 12
+            }],
+            "ratingsOnlyReviewCount": 221,
+            "sizeRating": 0,
+            "totalCount": 371,
+            "widthRating": 0
+        },
+        "reviews": [{
+            "badges": [{
+                "badgeType": "Custom",
+                "contentType": "REVIEW",
+                "name": "VerifiedPurchaser"
+            }],
+            "comment": "I like the color of these and that they have a pocket but these are totally see-through on me. They are also made of a very thin material so not as much compression as I would like.",
+            "helpfulness": 1,
+            "id": 195525509,
+            "positiveVoteCount": 22,
+            "productId": 6040113,
+            "secondaryRatings": [{
+                "maxRating": 5,
+                "name": "Quality",
+                "rating": 2
+            }, {
+                "maxRating": 3,
+                "name": "Fit",
+                "rating": 2
+            }],
+            "starRating": 2,
+            "submissionDate": "2020-04-25T07:08:19.000+00:00",
+            "title": "Not squat proof",
+            "userNickname": "Erin"
+        }, {
+            "badges": [{
+                "badgeType": "Custom",
+                "contentType": "REVIEW",
+                "name": "VerifiedPurchaser"
+            }],
+            "comment": "These are the best leggings! So comfortable and flattering. Plus they have pockets. I have worn them hiking for many hours, lounging at home, and for beach walks. The high waist keeps it flattering over my extra weight. No problems with the waist band rolling. No adjustments needed while hiking or walking around.",
+            "helpfulness": 1,
+            "id": 197763649,
+            "positiveVoteCount": 13,
+            "productId": 6040113,
+            "secondaryRatings": [{
+                "maxRating": 5,
+                "name": "Quality",
+                "rating": 5
+            }, {
+                "maxRating": 3,
+                "name": "Fit",
+                "rating": 2
+            }],
+            "starRating": 5,
+            "submissionDate": "2020-07-01T01:15:12.000+00:00",
+            "title": "Best leggings",
+            "userNickname": "heyladyhey"
+        }, {
+            "badges": [{
+                "badgeType": "Custom",
+                "contentType": "REVIEW",
+                "name": "VerifiedPurchaser"
+            }],
+            "comment": "I have the Zella brand so thought I would try the Z by Zella. They are great!  Fit great and not see through. TTS 5’1” 110lbs. Purchased in xs.",
+            "helpfulness": 1,
+            "id": 195101511,
+            "positiveVoteCount": 11,
+            "productId": 6040113,
+            "secondaryRatings": [{
+                "maxRating": 5,
+                "name": "Quality",
+                "rating": 5
+            }, {
+                "maxRating": 3,
+                "name": "Fit",
+                "rating": 2
+            }],
+            "starRating": 5,
+            "submissionDate": "2020-04-11T17:44:49.000+00:00",
+            "title": "These Did Not Disappoint",
+            "userNickname": "Michelle1974"
+        }, {
+            "badges": [{
+                "badgeType": "Custom",
+                "contentType": "REVIEW",
+                "name": "VerifiedPurchaser"
+            }],
+            "comment": "These are great! I live in Arizona and they are lightweight which I did not expect. The pockets are super deep for phones, keys, tissue. They’re my new daily attire since working from hone and walking/exercising in the early mornings. I just ordered my third pair. They wash well and I hang them to dry. They’ve kept heir shape well. I highly recommend them!",
+            "helpfulness": 1,
+            "id": 197471131,
+            "positiveVoteCount": 9,
+            "productId": 6040113,
+            "starRating": 5,
+            "submissionDate": "2020-06-20T22:27:45.000+00:00",
+            "title": "Awesome. Just ordered my third pair!",
+            "userNickname": "Toolfreak"
+        }, {
+            "badges": [{
+                "badgeType": "Custom",
+                "contentType": "REVIEW",
+                "name": "VerifiedPurchaser"
+            }],
+            "comment": "Great fit. Shiny material, with a decent amount of hold for a slimming look. I am 5’7”, 140 lbs, 27” waist and the Small fits perfectly. Buy the same size you do in all Zella leggings. The pockets are super deep too, which means my iPhone, doesn’t fall out when I take my pants off!",
+            "helpfulness": 1,
+            "id": 194936875,
+            "positiveVoteCount": 9,
+            "productId": 6040113,
+            "secondaryRatings": [{
+                "maxRating": 5,
+                "name": "Quality",
+                "rating": 5
+            }],
+            "starRating": 5,
+            "submissionDate": "2020-04-06T22:32:11.000+00:00",
+            "title": "Love them",
+            "userNickname": "Sara"
+        }, {
+            "badges": [{
+                "badgeType": "Custom",
+                "contentType": "REVIEW",
+                "name": "VerifiedPurchaser"
+            }],
+            "comment": "Bought these to work out and wanted something high waist with a pocket. They are shorter length so will also be great in the summer. Fit snug but not too tight. I am 5'4\" 130 lbs and Medium fits good.",
+            "helpfulness": 1,
+            "id": 193982499,
+            "positiveVoteCount": 9,
+            "productId": 6040113,
+            "secondaryRatings": [{
+                "maxRating": 5,
+                "name": "Quality",
+                "rating": 5
+            }, {
+                "maxRating": 3,
+                "name": "Fit",
+                "rating": 2
+            }],
+            "starRating": 5,
+            "submissionDate": "2020-02-25T22:27:38.000+00:00",
+            "title": "CAPRI LEGGINGS WITH A POCKET",
+            "userNickname": "Dawn"
+        }],
+        "totalResults": 371
+    }, "giftServicesAvailable": [{
+        "type": "GIFT_BOX",
+        "isAvailable": true,
+        "fulfillmentChannel": "FULFILLMENT_CENTER"
+    }, {
+        "type": "GIFT_KIT",
+        "isAvailable": true,
+        "fulfillmentChannel": "FULFILLMENT_CENTER"
+    }, {
+        "type": "GIFT_MESSAGE",
+        "isAvailable": true,
+        "fulfillmentChannel": "FULFILLMENT_CENTER"
+    }, {
+        "type": "EMAIL_GIFT_MESSAGE",
+        "isAvailable": true,
+        "fulfillmentChannel": "FULFILLMENT_CENTER"
+    }, {
+        "type": "EMAIL_GIFT_MESSAGE",
+        "isAvailable": true,
+        "fulfillmentChannel": "NORDSTROM_STORE"
+    }, {
+        "type": "EMAIL_GIFT_MESSAGE",
+        "isAvailable": true,
+        "fulfillmentChannel": "DROPSHIP"
+    }]
+    }
+    }
